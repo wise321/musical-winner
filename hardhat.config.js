@@ -5,7 +5,7 @@ module.exports = {
   networks: {
     swisstronik: {
       url: "https://json-rpc.testnet.swisstronik.com/",
-      accounts: ["system orchard shaft angry math visa organ beach ketchup rigid invest strategy"],
+      accounts: [""],
     },
   },
 };
